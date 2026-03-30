@@ -5,7 +5,7 @@
   "skills": [
     {
       "name": "check-weather",
-      "path": "skills/weather"
+      "path": "skills/check-weather"
     }
   ]
 }
