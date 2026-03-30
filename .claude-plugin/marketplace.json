@@ -7,12 +7,12 @@
     {
       "name": "quality-review-plugin",
       "source": "./plugins/quality-review-plugin",
-      "description": "Adds a /quality-review skill for quick code reviews"
+      "description": "quick code reviews"
     },
     {
       "name": "weather-plugin",
       "source": "./plugins/weather-plugin",
-      "description": "Adds a /check-weather skill for checking the weather"
+      "description": "查询天气"
     }
   ]
 }

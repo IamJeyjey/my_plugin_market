@@ -1,6 +1,6 @@
 {
   "name": "quality-review-plugin",
-  "description": "Adds a /quality-review skill for quick code reviews",
+  "description": "quick code reviews",
   "version": "1.0.0",
   "skills": [
     {
