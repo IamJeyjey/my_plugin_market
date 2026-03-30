@@ -1,0 +1,11 @@
+{
+  "name": "weather-plugin",
+  "description": "添加一个 /weather skill 用来查询天气",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "check_the_weather",
+      "path": "skills/weather"
+    }
+  ]
+}

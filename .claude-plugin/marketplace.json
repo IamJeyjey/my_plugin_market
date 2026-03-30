@@ -1,0 +1,18 @@
+{
+  "name": "my-plugins",
+  "owner": {
+    "name": "Jeyjey"
+  },
+  "plugins": [
+    {
+      "name": "quality-review-plugin",
+      "source": "./plugins/quality-review-plugin",
+      "description": "Adds a /quality-review skill for quick code reviews"
+    },
+    {
+      "name": "weather-plugin",
+      "source": "./plugins/weather-plugin",
+      "description": "添加一个 /weather skill 用来查询天气"
+    }
+  ]
+}
