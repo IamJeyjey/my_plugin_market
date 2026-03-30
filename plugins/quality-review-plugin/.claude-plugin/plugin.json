@@ -2,10 +2,7 @@
   "name": "quality-review-plugin",
   "description": "quick code reviews",
   "version": "1.0.0",
-  "skills": [
-    {
-      "name": "quality-review",
-      "path": "skills/quality-review"
-    }
-  ]
+  "author": {
+    "name": "Jeyjey"
+  }
 }

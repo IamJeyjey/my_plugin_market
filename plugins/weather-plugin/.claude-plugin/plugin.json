@@ -2,10 +2,7 @@
   "name": "weather-plugin",
   "description": "查询天气",
   "version": "1.0.0",
-  "skills": [
-    {
-      "name": "check-weather",
-      "path": "skills/check-weather"
-    }
-  ]
+  "author": {
+    "name": "Jeyjey"
+  }
 }
